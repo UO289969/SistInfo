@@ -6,6 +6,8 @@ public class Demo1 {
 		// TODO Auto-generated method stub
 		System.out.println("Linea 1");
 		System.out.println("Linea 2");
+		
+	   //Estado antes del merge
 	}
 
 }
