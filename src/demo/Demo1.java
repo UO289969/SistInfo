@@ -1,5 +1,5 @@
 package demo;
-// Estado después del merge
+// Estado después del merge2
 public class Demo1 {
 
 	public static void main(String[] args) {
